@@ -1,0 +1,229 @@
+{
+  "hero": {
+    "title": "LCDC <span class=\"highlight\">IT & Dev</span>",
+    "subtitle": "Soluciones Web y Soporte IT",
+    "cta_contact": "Contactar por WhatsApp"
+  },
+  "about": {
+    "title": "Sobre LCDC IT & Dev",
+    "description": "Resolviendo problemas virtuales para un mundo real.<br><br>Soy Cristian Muriel, desarrollador web y soporte IT. Trabajo con sistemas web y soporte tecnológico orientado a necesidades concretas, para personas, emprendedores y negocios.",
+    "features": [
+      "Sitios web",
+      "Sistemas a medida",
+      "Soporte IT remoto",
+      "Integraciones",
+      "Mantenimiento"
+    ],
+    "card_title": "Mi enfoque",
+    "card_description": "LCDC IT & Dev es la continuidad de mi experiencia profesional, con un compromiso claro en cada proyecto.<br><br>Seriedad y responsabilidad en cada desafío.",
+    "tech_title": "Tecnologías y herramientas",
+    "technologies": ["PHP", "MySQL", "JavaScript", "AJAX", "HTML5", "CSS3", "APIs", "Canvas"]
+  },
+  "services": {
+    "title": "Servicios Disponibles",
+    "description": "Soluciones flexibles para todo tipo de clientes: emprendedores, pymes y proyectos avanzados",
+    "items": [
+      {
+        "icon": "🌐",
+        "title": "Desarrollo Web",
+        "description": "Sitios completos y soluciones web adaptadas a cada necesidad: desde landing pages hasta sistemas con paneles administrativos, soporte multilenguaje y mantenimiento continuo.",
+        "features": [
+          "Sitios web completos",
+          "Landing pages",
+          "Sitios multilenguaje",
+          "Paneles administrativos",
+          "Mantenimiento y soporte"
+        ]
+      },
+      {
+        "icon": "⚙️",
+        "title": "Sistemas Web a Medida",
+        "description": "Desarrollo de sistemas web pensados para gestionar procesos reales: usuarios, datos, flujos de trabajo y control de información. Ideales cuando un sitio común no alcanza.",
+        "features": [
+          "Gestión de usuarios y accesos",
+          "Paneles administrativos",
+          "Reportes y control de información",
+          "Sistemas de gestión a medida",
+          "Aplicaciones web escalables"
+        ]
+      },
+      {
+        "icon": "🔧",
+        "title": "Soporte Técnico Remoto",
+        "description": "Asistencia remota para resolver problemas técnicos, optimizar equipos y mantenerlos funcionando correctamente.",
+        "features": [
+          "Diagnóstico remoto",
+          "Eliminación de malware",
+          "Instalación y configuración de software",
+          "Optimización de equipos",
+          "Copias de seguridad básicas"
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "title": "Proyectos Destacados",
+    "description": "Algunos trabajos que muestran lo que puedo hacer",
+    "filters": ["Todos", "Sistemas Web", "Sitios Web", "Experimentos", "Medios"],
+    "items": [
+      {
+        "id": "omnia-uno",
+        "title": "Omnia Uno — Sistema Web Modular",
+        "category": "sistemas web",
+        "client": "Proyecto propio",
+        "year": "2025",
+        "description": "Sistema web para organizar el trabajo diario de negocios y emprendedores. Permite gestionar trabajos, clientes, usuarios, turnos y mucho más desde un solo lugar.",
+        "technologies": ["PHP", "MySQL", "JavaScript", "SPA"],
+        "features": ["Sistemas web", "Negocios", "Proyecto propio"],
+        "demo_url": "https://omniaunodemo.netlify.app/login.html",
+        "image": "assets/img/omniademo.png"
+      },
+      {
+        "id": "ba-meat-grill",
+        "title": "BA Meat & Grill",
+        "category": "sitios web",
+        "client": "Gastronomía",
+        "year": "2024",
+        "description": "Sitio web bilingüe para experiencias gastronómicas argentinas, con reservas integradas y contenido multilenguaje.",
+        "technologies": ["HTML", "CSS", "JavaScript"],
+        "features": ["Sitios web", "Gastronomía", "Experiencias"],
+        "demo_url": "https://www.bameatandgrill.com/",
+        "image": "assets/img/bamg.png"
+      },
+      {
+        "id": "fm987",
+        "title": "FM 98.7 — Radio Online",
+        "category": "medios",
+        "client": "Radio local",
+        "year": "2023",
+        "description": "Sitio web para radio local con transmisión en vivo y gestión de contenidos. Incluye streaming online, Auto-DJ, sección de noticias y panel de administración adaptado para la publicación diaria.",
+        "technologies": ["WordPress", "Streaming", "Zeno.fm"],
+        "features": ["Medios", "Sitios web", "Streaming"],
+        "demo_url": "https://fm98punto7.com.ar/wp/",
+        "image": "assets/img/fm987.png"
+      },
+      {
+        "id": "cookie-slayer",
+        "title": "Cookie Slayer — Juego Web 2D (Experimento)",
+        "category": "experimentos",
+        "client": "Experimento",
+        "year": "2025",
+        "description": "Experimento de juego 2D desarrollado en JavaScript vanilla, con animación por sprites, colisiones, parallax y controles adaptados para teclado y pantalla táctil.",
+        "technologies": ["JavaScript", "HTML5 Canvas"],
+        "features": ["Experimentos", "Juegos web", "Canvas"],
+        "demo_url": "https://cookie-slayer.netlify.app/",
+        "image": "assets/img/cookiesly.png"
+      },
+      {
+        "id": "maze-scape",
+        "title": "Maze Scape — Juego de Laberinto (Experimento)",
+        "category": "experimentos",
+        "client": "Experimento",
+        "year": "2025",
+        "description": "Experimento de juego top-down desarrollado en JavaScript, con generación procedural, IA básica basada en estados y control combinado por teclado y mouse.",
+        "technologies": ["JavaScript", "HTML5 Canvas"],
+        "features": ["Experimentos", "Juegos web", "Lógica"],
+        "demo_url": "https://mazescape.netlify.app/",
+        "image": "assets/img/mazescp.png"
+      }
+    ],
+    "cta": {
+      "title": "¿Te gustó lo que viste?",
+      "description": "Estos son algunos ejemplos de lo que puedo hacer. Cada proyecto se adapta a la necesidad específica del cliente.",
+      "btn_contact": "Iniciar mi Proyecto"
+    }
+  },
+  "contact": {
+    "title": "Contacto Directo",
+    "description": "Atención rápida y personalizada. Consultas, soporte y presupuestos",
+    "info": {
+      "title": "Información de Contacto",
+      "items": [
+        {
+          "icon": "📧",
+          "title": "Email",
+          "value": "cralmuriel@gmail.com",
+          "link": "mailto:cralmuriel@gmail.com"
+        },
+        {
+          "icon": "📱",
+          "title": "Teléfono / WhatsApp",
+          "value": "+54 9 2284 721873",
+          "link": "https://wa.me/5492284721873"
+        },
+        {
+          "icon": "📍",
+          "title": "Ubicación",
+          "value": "General Lamadrid, Buenos Aires, Argentina"
+        },
+        {
+          "icon": "🌐",
+          "title": "Sitio Web",
+          "value": "lcdc.com.ar",
+          "link": "https://lcdc.com.ar"
+        }
+      ]
+    },
+    "form": {
+      "title": "Enviar Mensaje",
+      "fields": {
+        "name": "Nombre",
+        "email": "Email",
+        "subject": "Asunto",
+        "message": "Mensaje",
+        "required": "*"
+      },
+      "button": "Enviar Mensaje",
+      "note": "El mensaje llegará por WhatsApp para una respuesta más rápida."
+    },
+
+    "whatsapp": {
+      "message": "💬 Respuesta rápida por WhatsApp",
+      "description": "Respuesta directa y sin vueltas"
+    }
+  },
+  "footer": {
+    "company": {
+      "name": "LCDC IT & Dev",
+      "description": "Soluciones digitales para necesidades reales.",
+      "slogan": "Soluciones reales. Desarrollo serio."
+    },
+    "links": {
+      "navigation": {
+        "title": "Navegación",
+        "items": [
+          { "text": "Inicio", "href": "#inicio" },
+          { "text": "Sobre Nosotros", "href": "#sobre-nosotros" },
+          { "text": "Servicios", "href": "#servicios" },
+          { "text": "Proyectos", "href": "#proyectos" },
+          { "text": "Contacto", "href": "#contacto" }
+        ]
+      },
+      "services": {
+        "title": "Servicios",
+        "items": [
+          { "text": "Desarrollo Web", "href": "#servicios" },
+          { "text": "Sistemas a Medida", "href": "#servicios" },
+          { "text": "Soporte IT Remoto", "href": "#servicios" }
+        ]
+      }
+    },
+    "contact": {
+      "title": "Contacto",
+      "items": [
+        { "icon": "📧", "text": "cralmuriel@gmail.com" },
+        { "icon": "📱", "text": "+54 9 2284 721873" },
+        { "icon": "📍", "text": "General Lamadrid, Buenos Aires" },
+        { "icon": "🌐", "text": "lcdc.com.ar" }
+      ]
+    },
+    "bottom": {
+      "copyright": "© 2025 LCDC IT & Dev. Todos los derechos reservados.",
+      "made_with": "Desarrollado con ❤️ y mucho ☕"
+    }
+  },
+  "whatsapp": {
+    "number": "5492284721873",
+    "default_message": "Hola! Me interesa conocer más sobre sus servicios de desarrollo web."
+  }
+}
