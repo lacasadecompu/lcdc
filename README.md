@@ -1,4 +1,4 @@
-# LCDC IT & Dev - Portfolio Web
+# LCDC IT & Dev
 
 Sitio web profesional bilingüe para servicios de desarrollo web, sistemas a medida y soporte IT remoto.
 
@@ -243,5 +243,6 @@ Este proyecto es de uso personal para LCDC IT & Dev.
 - 📧 Email: cralmuriel@gmail.com
 - 📱 WhatsApp: +54 9 2284 721873
 ---
+
 
 *Desarrollado con ❤️ y mucho ☕ - Soluciones digitales para necesidades reales.*
